@@ -1,0 +1,7 @@
+name: FlyPlugin
+version: '${project.version}'
+main: me.doblegor.flyplugin.FlyPlugin
+api-version: 1.18
+authors: [ doblegor ]
+description: A practice plugin for the server VirtualHit
+website: https://github.com/Doblegor
